@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mFriendsComp</string>
+    <string name="action_settings">New contact</string>
+    <string name="action_close">Exit</string>
+</resources>
